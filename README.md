@@ -2,8 +2,7 @@
 
 - 🔭 Hoje eu trabalho como Técnico de apoio ao usuário de computação.
 - 📩 Contrata-me no email: dyonisiojoao0@gmail.com
-- 😄 Pronomes: ele/dele
-  
+
 **`Desenvolvedor Back-End`**
 
 Me chamo João Dyonisio, tenho 20 anos e sou de São Paulo. Atualmente, estou cursando Ciência da Computação - Data Science, IA & Platform Engineering - FIAP. Sou apaixonado por tecnologia e compartilho meu conhecimento com meus projetos aqui no GitHub.
