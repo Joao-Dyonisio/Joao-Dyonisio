@@ -1,6 +1,7 @@
 ## Olá! sou João Dyoiniso 👩🏻‍💻
 
-- 🔭 Hoje eu trabalho como Técnico de apoio ao usuário de computação.
+- 🔭 Hoje eu trabalho como Técnico de apoio ao usuário de computação. Mas estou procurando minha primeira oportunidade como desenvolvedor (estágio ou função júnior)
+- 📚 Também estou fazendo cursos certificados na Alura, com foco em Java , desenvolvimento Backend e princípios de engenharia de software.
 - 📩 Contrata-me no email: dyonisiojoao0@gmail.com
 
 **`Desenvolvedor Back-End`**
